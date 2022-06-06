@@ -115,7 +115,7 @@ jobs:
     steps:
     - actions/chockout@v2
 
-    - uses: alex-ac/github-action-ssh-docker-compose@master
+    - uses: djnotes/github-action-ssh-docker-compose@master
       name: Docker-Stack Remote Deployment
       with:
         ssh_host: example.com
@@ -141,7 +141,7 @@ jobs:
     steps:
     - actions/chockout@v2
 
-    - uses: alex-ac/github-action-ssh-docker-compose@master
+    - uses: djnotes/github-action-ssh-docker-compose@master
       name: Docker-Stack Remote Deployment
       with:
         ssh_host: example.com
