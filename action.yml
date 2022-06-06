@@ -1,4 +1,4 @@
-name: SSH-Compose
+name: ssh-docker-compose
 description: SSH into host and deploy repository with Docker-Compose
 branding:
   icon: server
