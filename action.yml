@@ -1,8 +1,8 @@
 name: ssh-docker-compose
 description: SSH into host and deploy repository with Docker-Compose
 branding:
-  icon: server
-  color: red
+  icon: cloud
+  color: blue 
 inputs:
   ssh_private_key:
     description: Private SSH key used for logging into remote system.
