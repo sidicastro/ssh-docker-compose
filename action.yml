@@ -1,5 +1,5 @@
 name: ssh-docker-compose
-description: SSH into host and deploy repository with Docker-Compose
+description: SSH em host e repositório de implantação com Docker-Compose
 branding:
   icon: cloud
   color: blue 
